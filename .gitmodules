@@ -1,0 +1,6 @@
+[submodule "Naturals/BB-Naturals"]
+	path = Naturals/BB-Naturals
+	url = https://github.com/Revathi-Janagan/BB-Naturals.git
+[submodule "Naturals/naturals_backend"]
+	path = Naturals/naturals_backend
+	url = https://github.com/Revathi-Janagan/naturals_backend.git
